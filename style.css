@@ -404,7 +404,7 @@ footer a:hover {
     color: hsl(176, 68%, 64%);
 }
 
-@media (min-width: 375px) and (max-width: 425px) {
+@media (max-width: 425px) {
 
     .logo img {
         width: 100px;
